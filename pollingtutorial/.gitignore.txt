@@ -1,0 +1,21 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# PyCharm 
+.idea/
+
+/env
+
+# Swap files from vim
+*.swp
+
+# Tags from ctags
+tags
+
+# ag.vim ignore file
+.agignore
+
+# vim session
+Session.vim
